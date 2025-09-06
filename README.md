@@ -6,3 +6,4 @@ C:\Users\benutzerprofil\AppData\LocalLow\IWM\ImmersiveKlanggestaltungKlemmbauste
 Zum Ausprobieren kann die beispielhafte JSON-File "Mauer.json" genutzt werden.
 
 
+Im Ordner "Daten Studie" sind alle LogFiles, die Ergebnisse des Fragebogens und die Auswertungen enthalten.
