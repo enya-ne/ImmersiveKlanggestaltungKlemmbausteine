@@ -1,0 +1,248 @@
+{
+    "bpm": 120,
+    "instrument": 0,
+    "key": 0,
+    "meter": [
+        5,
+        1,
+        2,
+        1,
+        3,
+        1,
+        2,
+        1,
+        4,
+        1,
+        2,
+        1,
+        3,
+        1,
+        2,
+        1
+    ],
+    "mode": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+    ],
+    "regions": [
+        {
+            "channel": 0,
+            "h": 11,
+            "w": 65,
+            "x": -1,
+            "y": 24
+        },
+        {
+            "channel": 0,
+            "h": 10,
+            "w": 65,
+            "x": -1,
+            "y": 13
+        }
+    ],
+    "rhythm": null,
+    "show_consonant": false,
+    "show_dissonant": false,
+    "show_meter": true,
+    "voices": {
+        "voice_1": [
+            {
+                "duration": 2,
+                "row": 31,
+                "start": 0,
+                "uid": 3
+            },
+            {
+                "duration": 2,
+                "row": 30,
+                "start": 2,
+                "uid": 4
+            },
+            {
+                "duration": 4,
+                "row": 29,
+                "start": 4,
+                "uid": 5
+            },
+            {
+                "duration": 4,
+                "row": 31,
+                "start": 8,
+                "uid": 6
+            },
+            {
+                "duration": 2,
+                "row": 31,
+                "start": 16,
+                "uid": 7
+            },
+            {
+                "duration": 2,
+                "row": 30,
+                "start": 18,
+                "uid": 8
+            },
+            {
+                "duration": 4,
+                "row": 29,
+                "start": 20,
+                "uid": 9
+            },
+            {
+                "duration": 4,
+                "row": 32,
+                "start": 24,
+                "uid": 13
+            },
+            {
+                "duration": 2,
+                "row": 31,
+                "start": 32,
+                "uid": 15
+            },
+            {
+                "duration": 2,
+                "row": 30,
+                "start": 34,
+                "uid": 16
+            },
+            {
+                "duration": 4,
+                "row": 28,
+                "start": 36,
+                "uid": 17
+            },
+            {
+                "duration": 4,
+                "row": 29,
+                "start": 40,
+                "uid": 18
+            },
+            {
+                "duration": 2,
+                "row": 30,
+                "start": 48,
+                "uid": 19
+            },
+            {
+                "duration": 2,
+                "row": 29,
+                "start": 50,
+                "uid": 20
+            },
+            {
+                "duration": 4,
+                "row": 28,
+                "start": 52,
+                "uid": 21
+            },
+            {
+                "duration": 4,
+                "row": 33,
+                "start": 56,
+                "uid": 22
+            },
+            {
+                "duration": 2,
+                "row": 17,
+                "start": 0,
+                "uid": 23
+            },
+            {
+                "duration": 2,
+                "row": 16,
+                "start": 2,
+                "uid": 24
+            },
+            {
+                "duration": 4,
+                "row": 15,
+                "start": 4,
+                "uid": 25
+            },
+            {
+                "duration": 4,
+                "row": 17,
+                "start": 8,
+                "uid": 26
+            },
+            {
+                "duration": 2,
+                "row": 18,
+                "start": 16,
+                "uid": 27
+            },
+            {
+                "duration": 2,
+                "row": 17,
+                "start": 18,
+                "uid": 28
+            },
+            {
+                "duration": 4,
+                "row": 16,
+                "start": 20,
+                "uid": 29
+            },
+            {
+                "duration": 4,
+                "row": 18,
+                "start": 24,
+                "uid": 30
+            },
+            {
+                "duration": 2,
+                "row": 19,
+                "start": 32,
+                "uid": 31
+            },
+            {
+                "duration": 2,
+                "row": 18,
+                "start": 34,
+                "uid": 32
+            },
+            {
+                "duration": 4,
+                "row": 17,
+                "start": 36,
+                "uid": 33
+            },
+            {
+                "duration": 4,
+                "row": 18,
+                "start": 40,
+                "uid": 34
+            },
+            {
+                "duration": 2,
+                "row": 20,
+                "start": 48,
+                "uid": 35
+            },
+            {
+                "duration": 2,
+                "row": 19,
+                "start": 50,
+                "uid": 36
+            },
+            {
+                "duration": 4,
+                "row": 18,
+                "start": 52,
+                "uid": 37
+            },
+            {
+                "duration": 4,
+                "row": 20,
+                "start": 56,
+                "uid": 38
+            }
+        ]
+    }
+}
